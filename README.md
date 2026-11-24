@@ -33,7 +33,6 @@ Auteur et directeur de publication : **Blaise Grenier**. Œuvre élaborée à pa
 
 ### Sources originales et preuves d'antériorité
 
-- **Programme en ligne (FR) :** [https://www.aiandia.com/tribunes/election-presidentielle-2027-ia/](https://www.aiandia.com/tribunes/election-presidentielle-2027-ia/)
 - **Archive et identifiant DOI (Zenodo) :** [https://zenodo.org/records/24381572](https://zenodo.org/records/24381572)
 - **Sécurisation :** Signature numérique, preuves d'horodatage **OpenTimestamps** (`.ots`) et identifiant **DOI**.
 
@@ -67,6 +66,5 @@ Author and publishing director: **Blaise Grenier**. Work developed from pre-exis
 
 ### Original Sources and Proof of Priority
 
-- **Online Reference Edition (EN):** [https://www.aiandia.com/en/tribunes/election-presidentielle-2027-ia/](https://www.aiandia.com/en/tribunes/election-presidentielle-2027-ia/)
 - **Archive and DOI Record (Zenodo):** [https://zenodo.org/records/24381572](https://zenodo.org/records/24381572)
 - **Verification:** Digital signature, **OpenTimestamps** proof files (`.ots`), and **DOI** identifier.
